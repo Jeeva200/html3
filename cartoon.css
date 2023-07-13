@@ -1,0 +1,82 @@
+body{
+    background-image: url(https://img.freepik.com/free-vector/blank-nature-park-landscape-daytime-scene_1308-57977.jpg?w=900&t=st=1689139350~exp=1689139950~hmac=8f5b19a3c4d384d329a5cc3e14a7ea6427f40a18f9bb493d1ac94667efbd23e9);
+    background-size: cover;
+}
+h2{
+    text-align: center;
+    font-size: xx-large;
+}
+h3{
+    text-align: center;
+    top:130px ;
+    left:400px ;
+    font-size: x-large;
+    color: rgb(1, 1, 14);
+}
+.colour{
+      height: 450px;
+      width: 750px;
+      margin-left:25%;
+      background-color: rgb(250, 240, 252,0.6);
+      top :100px;
+      left: 350px;
+      border-radius: 10px;
+      
+}
+.old{
+    font-size: x-large;
+    text-align: left;
+    margin-left: 25% ;
+    margin-top: 7% ;
+}
+.new{
+    font-size: x-large;
+    position: absolute;
+    top:179px;
+    left: 900px;
+    margin-right:40%;
+    text-align: right;
+
+}
+.image{
+    height:15%;
+    width: 15%;
+    position: absolute;
+    top:38%;
+    left:28%;
+}
+.image1{
+    height:15%;
+    width: 15%;
+    position: absolute;
+    top:55%;
+    left:35%;
+}
+.image2{
+    height:15%;
+    width: 15%;
+    position: absolute;
+    top:38%;
+    left:62%;
+}
+.image3{
+    height:15%;
+    width: 15%;
+    position: absolute;
+    top:55%;
+    left:54%;
+}
+.image4{
+    height:15%;
+    width: 15%;
+    position: absolute;
+    top:72%;
+    left:63%;
+}
+.image5{
+    height:15%;
+    width: 15%;
+    position: absolute;
+    top:72%;
+    left:28%;
+}
